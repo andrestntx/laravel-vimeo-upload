@@ -65,9 +65,10 @@
       <div class="page-header">
         <h1><img src="img/icon.png" style="width:50px"></img>&nbsp;<span style="color:#F3615E;">Laravel</span> Vimeo Upload</h1>
 
-        <a class="github-button" href="https://github.com/websemantics/vimeo-upload" data-icon="octicon-star" data-style="mega" data-count-href="/websemantics/vimeo-upload/stargazers" data-count-api="/repos/websemantics/vimeo-upload#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star websemantics/vimeo-upload on GitHub">Star</a>
+        <a class="github-button" href="https://github.com/andrestntx/laravel-vimeo-upload" data-icon="octicon-star" data-style="mega" data-count-href="/andrestntx/laravel-vimeo-upload/stargazers" data-count-api="/repos/andrestntx/laravel-vimeo-upload#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star andrestntx/laravel-vimeo-upload on GitHub">Star</a>
 
-        <a class="github-button" href="https://github.com/ntkme/github-buttons/fork" data-icon="octicon-repo-forked" data-style="mega" data-count-href="/ntkme/github-buttons/network" data-count-api="/repos/ntkme/github-buttons#forks_count" data-count-aria-label="# forks on GitHub" aria-label="Fork ntkme/github-buttons on GitHub">Fork</a>
+        <!-- Place this tag where you want the button to render. -->
+        <a class="github-button" href="https://github.com/andrestntx/laravel-vimeo-upload/fork" data-icon="octicon-repo-forked" data-style="mega" data-count-href="/andrestntx/laravel-vimeo-upload/network" data-count-api="/repos/andrestntx/laravel-vimeo-upload#forks_count" data-count-aria-label="# forks on GitHub" aria-label="Fork andrestntx/laravel-vimeo-upload on GitHub">Fork</a>
 
         <a class="github-button" href="https://github.com/andrestntx" data-style="mega" data-count-href="/andrestntx/followers" data-count-api="/users/andrestntx#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @andrestntx on GitHub">Follow @andrestntx</a>
 
